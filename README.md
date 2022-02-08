@@ -20,7 +20,12 @@
 ![apache verified, working](https://github.com/chechechek88/PBL-Cheche/blob/main/Images%20screenshot/apache%20verified%20working.png)
 
 ###### **_Green color shows it is working properly_**
+Once the server is running, run the code to check if it is accessible.
 
+```r
+  curl http://localhost:80
+```
+![Server running locally](https://github.com/chechechek88/PBL-Cheche/blob/main/curl%20http%20.png)
 
 
 
