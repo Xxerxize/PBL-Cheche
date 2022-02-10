@@ -2,6 +2,8 @@
 ## **STEP 1 — INSTALLING APACHE AND UPDATING THE FIREWALL**
 
 > Install **Apache** using Ubuntu’s package manager ‘apt’
+ 
+ You need to check if app already exists, so you run a check on the machine.
 
  #update a list of packages in package manager 
 
